@@ -122,7 +122,6 @@ dependencies:
   - lazy-object-proxy=1.4.3
   - libarchive=3.3.3
   - libcurl=7.65.3
-  - libcxxabi=4.0.1
   - libedit=3.1.20181209
   - libffi=3.2.1
   - libiconv=1.15
